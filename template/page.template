@@ -10,7 +10,7 @@
 
         @input(template/footer.content)
 
-        @jsinclude(site/js/process_pre_tags.js)
+        <script src='@pathtofile(site/js/process_pre_tags.js)'></script>
     </body>
 </html>
 
