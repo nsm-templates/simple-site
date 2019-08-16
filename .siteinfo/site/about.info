@@ -1,4 +1,4 @@
-14:10:58 Saturday August 10 2019
+00:54:26 Saturday August 17 2019
 about
 about
 template/page.template
@@ -6,5 +6,6 @@ template/page.template
 content/about.content
 template/footer.content
 template/head.content
+template/header.content
 template/menu.content
 template/page.template

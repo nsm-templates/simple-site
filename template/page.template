@@ -5,6 +5,8 @@
 
     <body>
 		<div class="content">
+			@input(template/header.content)
+
 		    @input(template/menu.content)
 
 		    @inputcontent
