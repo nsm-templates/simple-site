@@ -76,6 +76,17 @@ header
 	float:center;
 }
 
+#logo
+{
+	margin-top:0px;
+	margin-bottom: -5px;
+	margin-left: -90px;
+	margin-right: -90px;
+	/*width: 80%;*/
+	max-width: 100%;
+	width: 550px;
+}
+
 img
 {
 	-webkit-user-select: none; /* Chrome/Safari */
