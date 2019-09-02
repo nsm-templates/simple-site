@@ -55,10 +55,10 @@ header
 	-webkit-user-select: none; /* Chrome/Safari */
 	-moz-user-select: none; /* Firefox */
 	-ms-user-select: none; /* IE10+ */
-	background:#C8C8C8;
+	background:#3a3535;
 	border-style: solid;
     border-width: 1px;
-	border-color: #888888;
+	border-color: #3a3535;
 
 	font-family: DejaVu Sans Mono, Liberation Mono, Consolas, Ubuntu Mono, Courier New;
 	padding:5px;
@@ -78,13 +78,13 @@ header
 
 #logo
 {
-	margin-top:0px;
-	margin-bottom: -5px;
+	margin-top:10px;
+	margin-bottom: 5px;
 	margin-left: -90px;
 	margin-right: -90px;
 	/*width: 80%;*/
 	max-width: 100%;
-	width: 550px;
+	width: 450px;
 }
 
 img
