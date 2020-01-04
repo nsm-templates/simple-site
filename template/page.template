@@ -9,7 +9,7 @@
 
 		    @input(template/menu.content)
 
-		    @inputcontent
+		    @content()
 
 		    @input(template/footer.content)
 		</div>

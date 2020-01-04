@@ -1,4 +1,4 @@
-<title>basic site - @pagetitle</title>
+<title>basic site - @[title]</title>
 
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/dropmenu.css)'>
 <link rel='stylesheet' type='text/css' href='@pathtofile(site/css/pagestyle.css)'>
